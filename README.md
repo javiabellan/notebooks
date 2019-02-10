@@ -19,3 +19,9 @@ Here are my notebooks using the fast.ai library.
 - Collaborative filtering.ipynb
 - Rossmann.ipynb
 - Tabular data.ipynb
+
+---
+
+- Databunch
+  - If the label is an int by default is a classification problem.
+  - If the label is an float by default is a regression problem.
